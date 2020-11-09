@@ -63,7 +63,7 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 #### Launching the App
 
-- [ ] Navigate to the root of the project with your command line
+- [X] Navigate to the root of the project with your command line
 - [ ] Run `npm install` to download the dependencies listed in the `package.json` file
 - [ ] Run `npm start` to compile the project and serve it
 - [ ] Navigate Chrome to the URL indicated in the output of the `npm start` command
@@ -72,7 +72,7 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Your finished project must include all of the following requirements:
 
-- [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the `index.html` file itself.
+- [X] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the `index.html` file itself.
 
 - [ ] Following the instructions in the `components/Header.js` file, create the Header.
 
