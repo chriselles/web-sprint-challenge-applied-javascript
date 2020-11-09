@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The acronym DOM is Document Object Model. This is the object of the HTML page allowing access to elements within it. DOM is what makes the manipulation and access of the elements possible within the HTML page.
+
 2. What is an event?
+
+An event occurs when there is a type of JavaScript fucntion that is executed due to user action or when the website loads or unloads. Events help make a website dynamic using JavaScript. 
 
 3. What is an event listener?
 
+An event listener is the action that triggers a JavaScript function or callback. Events manipulate the DOM. These are attached directly to specific element responsible to trigger specific events. 
+
 4. Why would we convert a NodeList into an Array?
 
+NodeList provides access to all HTML elements it returns. It allows manipulation of all elements within the NodeList using a ForEach loop. It's really efficient since it can be reused/recycled using fewer total lines of code. 
+
 5. What is a component?
+
+Components are functions which help us to add HTML into DOM with a single function. Allowing us to use Don't Repeat Yourself principles. This is particularly useful when working with large amounts of data all used the same way. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
@@ -44,12 +54,12 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 #### Repository Set Up
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
-- [ ] Push commits: `git push origin <firstName-lastName>`
+- [X] Create a forked copy of this project
+- [?] Add your team lead as collaborator on Github
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [X] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
+- [X] Push commits: `git push origin <firstName-lastName>`
 
 #### Launching the App
 
